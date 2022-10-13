@@ -25,6 +25,7 @@ Trabalho e acredito em ações que possam gerar um impacto positivo na vida das 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 </div>
 
