@@ -6,6 +6,17 @@ Apaixonado pelo setor tecnológico, desenvolvimento e marcas que trabalhem para 
 
 Trabalho e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
 
+
+<br>
+
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acmarchiori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acmarchiori&layout=compact&langs_count=10&theme=dark"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+
 <br>
 
 <!-- TECNOLOGIAS -->
