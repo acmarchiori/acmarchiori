@@ -1,11 +1,8 @@
 ## Boas vindas ao meu perfil 
 
-Sou formado na área de eletrônica e telecomunicações, trabalhando por mais de 20 anos no setor de Telecom, redes e tecnologia. Nestes anos, aprendi muito sobre como trabalhar em equipe. Após muito planejamento, decidi por uma transição de carreira focando especificamente na área de tecnologia. 
+Com mais de 20 anos de sólida experiência na área de eletrônica e telecomunicações, tive o privilégio de mergulhar no fascinante mundo da tecnologia e redes. Trabalhando nesse setor, aprendi a importância do trabalho em equipe e o impacto positivo que a inovação pode trazer para a vida das pessoas.
 
-Apaixonado pelo setor tecnológico, desenvolvimento e marcas que trabalhem para contribuir com uma melhor interação digital, decidi estudar Desenvolvimento Web Full Stack na Trybe, uma escola que nos ensina a programar, aprender e a trabalhar, nos incentivando ao desenvolvimento de projetos em times.
-
-Trabalho e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
-
+Em transição de carreira para Desenvolvimento Web Full Stack na Trybe, estou me aprofundando nas mais recentes tecnologias e metodologias. Tenho me envolvido em projetos colaborativos, aprendendo não apenas a programar, mas também a trabalhar efetivamente em equipes para desenvolver soluções criativas e impactantes.
 
 <br>
 
