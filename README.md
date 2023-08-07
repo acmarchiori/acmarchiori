@@ -73,5 +73,3 @@ Atualmente, estou em transição de carreira para Desenvolvimento Web Full Stack
   
   ![](https://visitor-badge.glitch.me/badge?page_id=acmarchiori)
 </div>
-
-Agora você também pode entrar em contato comigo através do e-mail: [ac_marchiori@yahoo.com.br](mailto:ac_marchiori@yahoo.com.br). Ficarei feliz em conversar e colaborar em novos projetos!
