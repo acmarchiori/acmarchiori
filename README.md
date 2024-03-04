@@ -1,8 +1,10 @@
-## Bem-vindos ao meu perfil!
+## Bem-vindos ao meu perfil atualizado!
 
-Com mais de 20 anos de sólida experiência na área de eletrônica e telecomunicações, tive o privilégio de mergulhar no fascinante mundo da tecnologia e redes. Trabalhando nesse setor, aprendi a importância do trabalho em equipe e o impacto positivo que a inovação pode trazer para a vida das pessoas.
+Com mais de 20 anos de experiência sólida na área de eletrônica e telecomunicações, trilhei uma jornada imersiva no fascinante mundo da tecnologia e redes. Ao longo dessa trajetória, pude perceber a importância do trabalho em equipe e os impactos positivos que a inovação pode proporcionar.
 
-Atualmente, estou em transição de carreira para Desenvolvimento Web Full Stack na Trybe, onde estou me aprofundando nas mais recentes tecnologias e metodologias. Tenho me envolvido em projetos colaborativos, aprendendo não apenas a programar, mas também a trabalhar efetivamente em equipes para desenvolver soluções criativas e impactantes.
+Atualmente, estou em uma empolgante transição de carreira para Desenvolvimento Web Full Stack. Concluí o programa intensivo de Desenvolvimento Web na Trybe, onde me aprofundei em tecnologias e metodologias de ponta. Este curso proporcionou-me não apenas habilidades de programação, mas também a capacidade de trabalhar de forma eficaz em equipes, colaborando no desenvolvimento de soluções criativas e impactantes.
+
+Além disso, estou iniciando minha graduação em Análise e Desenvolvimento de Sistemas na Universidade Católica de Santos, onde buscarei consolidar meus conhecimentos e explorar as tendências mais recentes da área. Estou ansioso para aplicar essa combinação única de experiência e aprendizado em projetos desafiadores e inovadores.
 
 <br>
 
