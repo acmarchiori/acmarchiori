@@ -81,6 +81,8 @@ Além disso, estou iniciando minha graduação em Análise e Desenvolvimento de 
   <a href="https://www.instagram.com/tonimarchiori" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-marchiori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="mailto:ac_marchiori@yahoo.com.br"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
-  
+
+  ![Profile views](https://komarev.com/ghpvc/?username=acmarchiori&color=006bed)
+
   ![](https://visitor-badge.glitch.me/badge?page_id=acmarchiori)
 </div>
