@@ -1,10 +1,12 @@
-## Bem-vindos ao meu perfil atualizado!
+## 👋 Bem-vindo ao meu perfil!
 
-Com mais de 20 anos de experiência sólida na área de eletrônica e telecomunicações, trilhei uma jornada imersiva no fascinante mundo da tecnologia e redes. Ao longo dessa trajetória, pude perceber a importância do trabalho em equipe e os impactos positivos que a inovação pode proporcionar.
+Sou o Antonio Marchiori, desenvolvedor **full stack** com forte identificação com o **back-end** e **banco de dados**. Atualmente trabalho com **Node.js (Express)**, **Java com Spring Boot**, **TypeScript**, **Python**, e tenho experiência também com **Vue.js**, **React**, **Angular** e **SQL**.
 
-Atualmente, estou em uma empolgante transição de carreira para Desenvolvimento Web Full Stack. Concluí o programa intensivo de Desenvolvimento Web na Trybe, onde me aprofundei em tecnologias e metodologias de ponta. Este curso proporcionou-me não apenas habilidades de programação, mas também a capacidade de trabalhar de forma eficaz em equipes, colaborando no desenvolvimento de soluções criativas e impactantes.
+Já atuei em projetos diversos — cada um com um escopo, nicho e desafios únicos — o que tem sido essencial para meu crescimento técnico e pessoal. Gosto de escrever código limpo, testar o que faço, entender o produto e entregar soluções que realmente funcionam.
 
-Além disso, estou iniciando minha graduação em Análise e Desenvolvimento de Sistemas na Universidade Católica de Santos, onde buscarei consolidar meus conhecimentos e explorar as tendências mais recentes da área. Estou ansioso para aplicar essa combinação única de experiência e aprendizado em projetos desafiadores e inovadores.
+Estou no último ano da graduação em **Análise e Desenvolvimento de Sistemas** e venho estudando ativamente **mobile (Flutter/Kotlin)** e integração com **inteligência artificial** — áreas onde quero me aprofundar mais.
+
+Se quiser trocar ideia, colaborar ou me indicar oportunidades, será um prazer conversar!
 
 <br>
 
@@ -83,6 +85,4 @@ Além disso, estou iniciando minha graduação em Análise e Desenvolvimento de 
   <a href="mailto:ac_marchiori@yahoo.com.br"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 
   ![Profile views](https://komarev.com/ghpvc/?username=acmarchiori&color=006bed)
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=acmarchiori)
 </div>
