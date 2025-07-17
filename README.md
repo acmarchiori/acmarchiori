@@ -21,9 +21,9 @@ Se quiser trocar ideia, colaborar ou me indicar oportunidades, será um prazer c
   <img src="https://streak-stats.demolab.com?user=acmarchiori&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
 <!--   <img src="https://github-profile-trophy.vercel.app?username=acmarchiori&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  /> -->
 </div>
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acmarchiori&theme=dark&hide_border=false" alt="activity graph" />
-</div> -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acmarchiori&theme=github&hide_border=false" alt="activity graph" />
+</div>
 
 <br>
 
